@@ -1,0 +1,208 @@
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#logo_cutomer {
+    position: relative;
+    top: 5px;
+    right: 15px;
+}
+
+#menu_text {
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+    bottom: 10px;
+    left: -13px;
+}
+
+#dashboard_button {
+    color: white;
+    position: relative;
+    right: 70px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#dashboard_background {
+    background-color: #a1a1a1c5;
+    position: relative;
+}
+
+#view_reply_button {
+    color: white;
+    position: relative;
+    right: 88px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#view_reply_img {
+    position: relative;
+    left: 20px;
+}
+#options_c{
+    position: relative;
+    bottom:-30px;
+}
+
+#product_detail_button {
+    color: white;
+    position: relative;
+    right: 11px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#product_detail_img {
+            
+    position: relative;
+    left: 20px;
+}
+
+#product_drop_down {
+    position: relative;
+    right: 30px;
+    top: 3px;
+
+}
+.product_detail{
+    position: relative;
+    right: 14px;
+    bottom: 5px;
+}
+.newproduct_button{
+    position: relative;
+    right: 10px;
+}
+#search {
+    background-color: #ffffff;
+    border: 1px solid #4c4c4c;
+    width: 560px;
+    position: relative;
+    left: 50%;
+}
+
+#search_icon {
+    position: relative;
+    left: 142%;
+    top: -32px;
+}
+
+#dashboard_text {
+    position: relative;
+    bottom: 150px;
+    right: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #636363;
+
+}
+
+#icon_pic {
+    position: relative;
+    left: 173%;
+    bottom: 32%;
+}
+
+#user_text {
+    position: relative;
+    bottom: 8px;
+    left: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+
+#other_text {
+    position: relative;
+    left: -13px;
+    font-weight: bold;
+}
+
+#left_border {
+    height: 737px;
+}
+
+#Total_inquires {
+    position: relative;
+    bottom: 120px;
+    left: 150px;
+}
+
+#Product_Review {
+    position: relative;
+    bottom: 120px;
+    left: 200px;
+}
+
+#Total_vendors {
+    position: relative;
+    bottom: 120px;
+    left: 250px;
+}
+
+
+tbody tr:hover {
+    background-color: #d7d2d2eb;
+    /* Change this to the desired hover color */
+}
+
+body #product_table {
+    position: relative;
+    top: -95px;
+    right: 381px;
+}
+
+
+.reviewTextContainer {
+    max-height: 5em;
+  
+    width: calc(100% - 0.5rem);
+    
+    overflow-y: auto;
+
+    overflow-x: hidden;
+   
+    word-wrap: break-word;
+   
+    white-space: normal;
+
+}
+
+.modal {
+    max-height: 25em;
+ 
+    width: calc(100% - 0.5rem);
+  
+    overflow-y: auto;
+  
+    overflow-x: hidden;
+
+    word-wrap: break-word;
+ 
+    white-space: normal;
+
+}
+
+.cursor-pointer {
+    position: relative;
+    right: 35px;
+    top: 4px;
+    width: 14px;
+}
+
+.existing_new_Button {
+    position: relative;
+    left: 520px;
+    top: 20px;
+}
+
+.AccountInfo{
+    position: relative;
+    left: 240px;
+    width: 619px;
+    bottom: 140px;
+}
